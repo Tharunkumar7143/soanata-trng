@@ -1,4 +1,4 @@
-
+import Day2
 age=int(input("enter a age:"))
 if(100-age)==0:
     print("you not born")
