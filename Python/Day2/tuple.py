@@ -1,0 +1,7 @@
+t=(0,7,1,4,3,6,1,4,2,3)
+print(t)
+print(type(t))
+print(len(t))
+print(max(t))
+print(min(t))
+print(t.index(7))

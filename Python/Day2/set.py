@@ -1,0 +1,10 @@
+s={'t','h','a'}
+s.add('r')
+print(s)
+s.remove('r')
+print(s)
+s.discard('a')
+print(s)
+print(type(s))
+s.clear()
+print(s)

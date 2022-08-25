@@ -1,0 +1,9 @@
+l=[1,2,3,4,5,6,7,8,9,10]
+l.append(10)
+print(l)
+l.insert(1,10)
+print(l)
+l1=['t','h','m']
+l.extend(l1)
+print(l)
+print(l[-1])
