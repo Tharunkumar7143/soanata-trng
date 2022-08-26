@@ -5,7 +5,3 @@ def rock_paper_scissor(player1,player2):
         return "player2 wins"
     else:
         return "nothing wins,match was tie"
-player1=input("enter you'r choice 1.rock 2.paper 3.scissor:")
-player2=input("enter you'r choice 1.rock 2.paper 3.scissor:")
-result=rock_paper_scissor(player1,player2)
-print(result)
